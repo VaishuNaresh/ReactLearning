@@ -1,0 +1,28 @@
+Entering text:handleInput()------textbox
+click on add:Additem()-----Add
+
+handleInput():
+currentItem is a variable
+text AND KEY IS 
+
+
+handleInput():
+currentItem:{
+text:"sample text",
+key:Date.now()
+}
+
+
+ADDITEM():
+list:[
+currentitem:{
+text:"sample text",
+key:Date.now()}]
+
+next we have to create a list so create a file listitems.js
+
+Delete update read
+
+and for animation we have to use the command npm i -s react-flip-move
+
+the item will be added in list
